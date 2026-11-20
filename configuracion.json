@@ -1,0 +1,76 @@
+{
+  "modelo": "TabPFN ajustado, ampliado",
+  "entrenamiento": 21660,
+  "f1_cv_historico": 0.4424,
+  "f1_reserva_historico": 0.4428,
+  "f1_cv_actual": 0.44240541879525735,
+  "origen_cv_actual": "Recalculado en esta ejecución",
+  "parametros": {
+    "n_estimators": 2,
+    "balance_probabilities": true,
+    "random_state": 2026
+  },
+  "opciones": {
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie",
+      "Casual",
+      "Strategy",
+      "RPG",
+      "Simulation",
+      "Sports",
+      "Racing"
+    ],
+    "platforms": [
+      "windows",
+      "mac",
+      "linux"
+    ],
+    "categories": [
+      "Single-player",
+      "Multi-player",
+      "Co-op",
+      "Steam Achievements",
+      "Steam Trading Cards",
+      "Steam Workshop",
+      "Shared/Split Screen",
+      "Full controller support",
+      "Partial Controller Support",
+      "Online Multi-Player",
+      "Local Multi-Player",
+      "Online Co-op",
+      "Local Co-op"
+    ]
+  },
+  "precio_max": 421.99,
+  "supuestos_juego": {
+    "desarrollo_clp": 80000000,
+    "lanzamiento_clp": 20000000,
+    "gbp_clp": 1200.0,
+    "fraccion_precio_cobrado": 0.7,
+    "fraccion_propietarios_pago": 0.8,
+    "comision_plataforma": 0.3,
+    "costo_variable_copia_clp": 500,
+    "propietarios_ultima_clase": 300000
+  },
+  "supuestos_plan": {
+    "propuestas_anuales": 100,
+    "horas_mes": 8,
+    "meses": 10,
+    "horas_por_concepto": 4,
+    "costo_hora_clp": 15000,
+    "implementacion_clp": 600000,
+    "mantenimiento_clp": 300000,
+    "gasto_evitable_clp": 1000000,
+    "efectividad": 0.3
+  },
+  "semilla": 2026,
+  "sha256_csv": "783087562c9bab27faf7c4c1c8040269489ab2fc2054549971be01eb6c007f99",
+  "versiones": {
+    "tabpfn": "9.2.0",
+    "scikit-learn": "1.6.1",
+    "imbalanced-learn": "0.14.2",
+    "streamlit": "1.51.0"
+  }
+}

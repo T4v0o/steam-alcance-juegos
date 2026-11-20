@@ -1,0 +1,1 @@
+Rango candidato £12.49–£12.49: el puntaje de bajo alcance pasa de 77.8% a un mínimo de 47.5%. Es una hipótesis para validar, no una garantía de ventas ni de rentabilidad.

@@ -1,0 +1,12 @@
+,Valor
+Casos,100.0
+Capacidad,20.0
+Críticos totales,62.0
+Capturados modelo,19.0
+Capturados azar esperados,12.4
+Adicionales,6.6
+Falsas alarmas,1.0
+Críticos no seleccionados,43.0
+Precisión@K,0.95
+Captura@K,0.3064516129032258
+Lift,1.532258064516129
